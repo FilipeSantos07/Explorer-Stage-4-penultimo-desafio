@@ -4,7 +4,15 @@
 
 > Trilha Explorer
 
-Finalizei o penúltimo desafio de lógica de programação e algoritmos do stage 4 da trilha Explorer da Rocketseat. O desafio consistia no seguinte : Solicitar ao usuário que ele insira dois números e, a partir daí, calcular:
+Finalizei o penúltimo desafio de lógica de programação e algoritmos do stage 4 da trilha Explorer da Rocketseat. 
+
+O que foi abordado nesse desafio:
+- Variáveis;
+- Operações matemáticas;
+- Operadores comparativos;
+- Condicional.
+
+O desafio consistia no seguinte : Solicitar ao usuário que ele insira dois números e, a partir daí, calcular:
 
 -  A soma dos dois números;
 -  A subtração dos dois números;
