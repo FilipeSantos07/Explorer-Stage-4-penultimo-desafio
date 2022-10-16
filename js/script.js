@@ -43,5 +43,5 @@ if ((n1 + n2) % 2 == 0) {
 if(n1 != n2) {
     alert(`Os números inseridos são diferentes.`)
 } else {
-    alert(`Os números inseridos são iguals.`)
+    alert(`Os números inseridos são iguais.`)
 }
