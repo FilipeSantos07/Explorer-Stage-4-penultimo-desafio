@@ -8,7 +8,7 @@ Finalizei o penúltimo desafio de lógica de programação e algoritmos do stage
 
 O que foi abordado nesse desafio:
 - Variáveis;
-- Operações matemáticos;
+- Operações matemáticas;
 - Operadores comparativos;
 - Condicional.
 
